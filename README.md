@@ -19,7 +19,7 @@
 
 ## 📸 نمای داشبورد
 
-![Titanic Dashboard](Images/1.png)
+![Titanic Dashboard](IMAGES/1.png)
 
 
 ---
